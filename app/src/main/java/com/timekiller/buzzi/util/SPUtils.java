@@ -3,14 +3,6 @@ package com.timekiller.buzzi.util;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/2
- *     desc  : SP读写工具类
- * </pre>
- */
 public class SPUtils {
 
     private SPUtils() {

@@ -14,14 +14,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/2
- *     desc  : App相关的工具类
- * </pre>
- */
 public class AppUtils {
 
     private AppUtils() {

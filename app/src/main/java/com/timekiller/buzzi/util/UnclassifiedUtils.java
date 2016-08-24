@@ -8,14 +8,7 @@ import android.util.Base64;
 
 import java.util.List;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/2
- *     desc  : 未归类的工具类
- * </pre>
- */
+
 public class UnclassifiedUtils {
 
     private UnclassifiedUtils() {

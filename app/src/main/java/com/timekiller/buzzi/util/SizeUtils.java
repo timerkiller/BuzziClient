@@ -6,14 +6,7 @@ import android.util.Log;
 import android.util.TypedValue;
 import android.view.View;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/2
- *     desc  : 尺寸相关的工具类
- * </pre>
- */
+
 public class SizeUtils {
 
     private SizeUtils() {

@@ -1,13 +1,6 @@
 package com.timekiller.buzzi.util;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/13
- *     desc  : 转换相关工具类
- * </pre>
- */
+
 public class ConvertUtils {
 
     static final char hexDigits[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};

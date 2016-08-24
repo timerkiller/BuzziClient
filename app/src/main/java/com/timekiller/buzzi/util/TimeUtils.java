@@ -5,16 +5,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-import static com.blankj.utilcode.utils.ConstUtils.*;
+import static com.timekiller.buzzi.util.ConstUtils.*;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/2
- *     desc  : 时间相关的工具类
- * </pre>
- */
 public class TimeUtils {
 
     private TimeUtils() {

@@ -6,14 +6,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.telephony.TelephonyManager;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/2
- *     desc  : 网络相关的工具类
- * </pre>
- */
+
 public class NetworkUtils {
 
     private NetworkUtils() {

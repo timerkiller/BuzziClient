@@ -11,14 +11,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.LineNumberReader;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/1
- *     desc  : 设备相关的工具类
- * </pre>
- */
+
 public class DeviceUtils {
 
     private DeviceUtils() {
